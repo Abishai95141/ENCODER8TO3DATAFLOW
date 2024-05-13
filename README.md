@@ -64,8 +64,7 @@ Developed by: RegisterNumber: 212223240002
 
 **RESULTS**
 
-![image](https://github.com/Abishai95141/ENCODER8TO3DATAFLOW/assets/139335314/da277aff-f9d2-41f9-a62b-0a17668a0650)
-
+Thus, an 8*3 encoder has been implemented using verilog successfully.
 
 
 
